@@ -1,2 +1,2 @@
 # DSRL
-dual super-resolution for semantic segmentation
+dual super-resolution learning for semantic segmentation
